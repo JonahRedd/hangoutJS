@@ -1,0 +1,18 @@
+{
+  "name": "vchatprj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "budo index.js:bundle.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "budo": "^9.0.0",
+    "watchify": "^3.7.0"
+  },
+  "dependencies": {
+    "simple-peer": "^6.0.7"
+  }
+}
