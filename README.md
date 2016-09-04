@@ -1,5 +1,6 @@
 # hangoutJS
 simple NodeJS chat app
+<<<<<<< HEAD
 
 install packages : budo, watchify, simple-peer
 
@@ -24,3 +25,5 @@ text chat must be working in the third textarea
 Cheers, :]
 
 
+=======
+>>>>>>> 499d154a4cce979d9440d35bfa9b5ecbe1ae376c
